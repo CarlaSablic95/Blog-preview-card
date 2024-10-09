@@ -73,7 +73,7 @@ main {
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 25px;
     margin-bottom: 18px;
     color: var(--gray-950);
     font-weight: 800;
@@ -88,6 +88,7 @@ h1:hover {
     line-height: 24px;
     margin-bottom: 28px;
     color: var(--gray-500);
+    font-size: 15px;
 }
 
 .author {
@@ -102,6 +103,7 @@ h1:hover {
 }
 
 .author > p {
+    font-size: 14px;
     color: var(--gray-950);
     font-weight: 800;
 }
