@@ -79,6 +79,11 @@ h1 {
     font-weight: 800;
 }
 
+h1:hover {
+    color: var(--golden-yellow);
+    cursor: pointer;
+}
+
 .description {
     line-height: 24px;
     margin-bottom: 28px;
